@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="left">Hey 👋What's Up?</h1>
 
 ###
 
@@ -76,8 +76,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChirayuMarathe/ChirayuMarathe/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-###
 ###
 ###
 ### ✍️ Random Dev Quote
