@@ -125,33 +125,6 @@
 </p>
  -->
 
-# Github Stats
-
-<!-- ---------------------------------------STATS------------------------------------------
---------------------------------------------------------------------------------------------- -->
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChirayuMarathe&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="ChirayuMarathe" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChirayuMarathe&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="ChirayuMarathe" height="170" />
-</p>
-
-<img src="https://img.shields.io/github/followers/ChirayuMarathe.svg?style=social&label=Follow" style="max-width: 100%;" />
-
-<br>      
-<details>
-  <summary>✨ Show More Stats</summary>
-  <p align="center">
-    <a href="https://github.com/ChirayuMarathe">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChirayuMarathe&theme=transparent" />
-    </a>
-    <a href="https://github.com/ChirayuMarathe">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChirayuMarathe&theme=transparent" />
-    </a>
-  </p>
-</details>
 
 <br><br>
 
