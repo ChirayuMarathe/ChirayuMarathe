@@ -10,7 +10,7 @@
 
 <div align="center">
  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChirayuMarathe&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-<br>
+<br><br>
 <a href="https://medium.com/@chirayusmarathe"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
 <a href="https://www.linkedin.com/in/chirayu-marathe69/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
 <a href="mailto:chirayusmarathe@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
@@ -18,77 +18,91 @@
 
 <br>
 
-<p align="center">Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</p>
-
-<br>
-
-## Tech Stack
-
-<details open>
-<summary><b>Languages</b></summary>
-<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,javascript,typescript" />
+  <i>Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential.<br>
+  Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</i>
 </p>
-</details>
-
-<details open>
-<summary><b>Backend & DevOps</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,aws" />
-</p>
-</details>
-
-<details open>
-<summary><b>Databases</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
-</p>
-</details>
-
-<details open>
-<summary><b>Frontend (for fun)</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,threejs,tailwind" />
-</p>
-</details>
-
-<details open>
-<summary><b>Tools & Platforms</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-</details>
 
 <br>
 
-## About Me
+---
 
-<i>Work with Optimism, Hope for the Best!</i>
+## 🛠️ Tech Stack
 
-Greetings! It's great to have you here. I'm Chirayu Marathe, a backend-focused FullStack developer from India.
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-As a core developer at Datalis, I'm helping build intelligent, AI-driven platforms to simplify workflows and empower businesses with better decision-making. My primary focus lies in backend architecture, API design, and building scalable systems, though I enjoy dabbling in frontend development for fun.
+### Backend & DevOps
+<img src="https://skillicons.dev/icons?i=python,java,go,fastapi" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
-I'm currently pursuing my Bachelor of Engineering in Computer Engineering (graduating in 2027). Alongside my academic journey, I actively work on open-source contributions and collaborate on impactful side projects.
+</td>
+<td align="center" width="50%">
 
-My expertise centers around Python, FastAPI, system design, and cloud infrastructure. I work extensively with databases like MongoDB, MySQL, Supabase, and Firebase, and I'm passionate about containerization and orchestration using Docker and Kubernetes. On the frontend side, I enjoy experimenting with React, Next.js, and TypeScript when the mood strikes.
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
 
-I actively document my learnings and share technical content on LinkedIn, aiming to inspire and help other developers grow.
+</td>
+</tr>
 
-I enjoy exploring new tech stacks, contributing to open source, and collaborating on projects that push the limits of innovation.
+<tr>
+<td align="center" width="50%">
 
-Fueled by real-world challenges, I'm always exploring how technology can solve practical problems—driving solutions that bridge the gap between ideas and impactful outcomes.
+### Frontend (for fun)
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript" />
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+
+</td>
+<td align="center" width="50%">
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Latest Work
+---
 
-Building scalable backend systems and exploring cloud-native architectures while occasionally creating delightful user experiences on the frontend.
+## 👨‍💻 About Me
+
+```
+Work with Optimism, Hope for the Best!
+```
+
+Greetings! I'm **Chirayu Marathe**, a backend-focused FullStack developer from India.
+
+As a core developer at **Datalis**, I'm helping build intelligent, AI-driven platforms to simplify workflows and empower businesses with better decision-making. My primary focus lies in backend architecture, API design, and building scalable systems, though I enjoy dabbling in frontend development for fun.
+
+Currently pursuing my **Bachelor of Engineering in Computer Engineering** (graduating in 2027). Alongside my academic journey, I actively work on open-source contributions and collaborate on impactful side projects.
+
+### What I Do
+
+**Backend Excellence:** My expertise centers around Python, FastAPI, system design, and cloud infrastructure. I work extensively with databases like MongoDB, Supabase, and Firebase, and I'm passionate about containerization and orchestration using Docker and Kubernetes.
+
+**Frontend Fun:** When the mood strikes, I enjoy experimenting with React and TypeScript to create delightful user experiences.
+
+**Knowledge Sharing:** I actively document my learnings and share technical content on LinkedIn, aiming to inspire and help other developers grow.
+
+**Continuous Learning:** I enjoy exploring new tech stacks, contributing to open source, and collaborating on projects that push the limits of innovation.
+
+**Problem Solving:** Fueled by real-world challenges, I'm always exploring how technology can solve practical problems—driving solutions that bridge the gap between ideas and impactful outcomes.
+
+<br>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChirayuMarathe&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=d5d5d5&icon_color=0A0209&text_color=d5d5d5" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChirayuMarathe&theme=dark&hide_border=true&background=0D1117&stroke=d5d5d5&ring=0A0209&fire=0A0209&currStreakLabel=d5d5d5" alt="GitHub Streak" height="165">
+</div>
 
 <br>
 
@@ -96,4 +110,8 @@ Building scalable backend systems and exploring cloud-native architectures while
 
 <p align="center">
   <i>Trying to touch and learn 1 new thing everyday!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
