@@ -95,23 +95,8 @@ Currently pursuing my **Bachelor of Engineering in Computer Engineering** (gradu
 
 <br>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChirayuMarathe&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=d5d5d5&icon_color=0A0209&text_color=d5d5d5" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChirayuMarathe&theme=dark&hide_border=true&background=0D1117&stroke=d5d5d5&ring=0A0209&fire=0A0209&currStreakLabel=d5d5d5" alt="GitHub Streak" height="165">
-</div>
-
-<br>
-
----
-
 <p align="center">
   <i>Trying to touch and learn 1 new thing everyday!</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
