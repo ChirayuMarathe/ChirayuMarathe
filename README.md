@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D5D5D5&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Chirayu+Marathe+%F0%9F%91%8B;Backend-focused+FullStack+Developer;Core+Developer+%40+Datalis;Building+scalable%2C+AI-driven+systems;Learning+1+new+thing+everyday" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D5D5D5&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Chirayu+Marathe;Backend-focused+FullStack+Developer;Core+Developer+%40+Datalis;Building+scalable%2C+AI-driven+systems;Learning+1+new+thing+everyday" alt="Typing SVG" />
 
 <br>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 👋 Hey, I'm Chirayu
+## Hey, I'm Chirayu
 
 I'm a **backend-focused FullStack developer** from India. At **Datalis**, I help build AI-driven platforms that simplify workflows and help businesses make better decisions.
 
@@ -35,30 +35,30 @@ I like designing APIs, structuring systems that scale, and shipping them in cont
 
 <table>
 <tr>
-<td>🏢 <b>Working on</b></td>
+<td><b>Working on</b></td>
 <td>AI-driven platforms at Datalis</td>
 </tr>
 <tr>
-<td>🌱 <b>Learning</b></td>
+<td><b>Learning</b></td>
 <td>System design · Kubernetes · Cloud infrastructure</td>
 </tr>
 <tr>
-<td>🤝 <b>Open to</b></td>
+<td><b>Open to</b></td>
 <td>Open-source contributions & impactful side projects</td>
 </tr>
 <tr>
-<td>💬 <b>Ask me about</b></td>
+<td><b>Ask me about</b></td>
 <td>Python, FastAPI, Docker, MongoDB, Supabase</td>
 </tr>
 <tr>
-<td>⚡ <b>Fun fact</b></td>
+<td><b>Fun fact</b></td>
 <td>I try to touch and learn 1 new thing every day</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -74,23 +74,7 @@ I like designing APIs, structuring systems that scale, and shipping them in cont
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Replace YOUR-REPO-1/2 with your real repo names (pin your best 4-6 repos) -->
-<div align="center">
-
-<a href="https://github.com/ChirayuMarathe/YOUR-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChirayuMarathe&repo=YOUR-REPO-1&hide_border=true&bg_color=0A0209&title_color=d5d5d5&text_color=bdbdbd&icon_color=d5d5d5" />
-</a>
-<a href="https://github.com/ChirayuMarathe/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChirayuMarathe&repo=YOUR-REPO-2&hide_border=true&bg_color=0A0209&title_color=d5d5d5&text_color=bdbdbd&icon_color=d5d5d5" />
-</a>
-
-</div>
-
----
-
-## ✍️ Latest Writing
+## Latest Writing
 
 <!-- Auto-updated from Medium by .github/workflows/blog-post-workflow.yml -->
 <!-- BLOG-POST-LIST:START -->
@@ -100,7 +84,7 @@ More on [Medium](https://medium.com/@chirayusmarathe) and [LinkedIn](https://www
 
 ---
 
-## 📊 GitHub at a Glance
+## GitHub at a Glance
 
 <div align="center">
 
@@ -120,10 +104,11 @@ More on [Medium](https://medium.com/@chirayusmarathe) and [LinkedIn](https://www
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 Open to collaboration, open-source work, and good tech conversations.
-📫 **[chirayusmarathe@gmail.com](mailto:chirayusmarathe@gmail.com)**
+
+Email: **[chirayusmarathe@gmail.com](mailto:chirayusmarathe@gmail.com)**
 
 <div align="center">
 
