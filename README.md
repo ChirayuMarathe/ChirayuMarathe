@@ -10,61 +10,47 @@
 
 <br>
 
-## Hi, I'm Chirayu
+```text
+chirayu@mumbai:~$ whoami
+Chirayu Marathe, backend-leaning full stack developer
 
-Backend-leaning full stack developer. Computer engineering student (2027), software engineer intern at Dabby (Datalis). I build AI products end to end and ship them.
+chirayu@mumbai:~$ cat now.txt
+work      Software Engineer Intern, Dabby (Datalis), since May 2025
+college   B.E. Computer Engineering, Aug 2024 to May 2027
+building  Sign Bridge, a platform to connect sign language users with everyone else
 
-<br>
+chirayu@mumbai:~$ ls projects/
+dabby/          AI financial automation: LLM output to ledger, live P&L and balance sheet
+jobai/          resume tailoring and job matching, Next.js, Supabase, GPT-4o, Llama 3.3
+stellar-forge/  Web3 crowdfunding and freelance escrow on Stellar
+rescue-radar/   animal rescue coordination with GPS, geofencing and image recognition
+mitraverify/    fact checker for text, images and documents, English and Hindi
+sign-bridge/    in progress
 
-## Things I've built
+chirayu@mumbai:~$ cat stack.txt
+languages   Python, Java, JavaScript, Go
+frontend    React, Next.js, HTML, CSS, Tailwind
+backend     FastAPI, Flask, Supabase
+infra       AWS EC2, Docker, Kubernetes, Jenkins
+data        MongoDB, SQL
+tools       Git, GitHub
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**AI products**
-
-- **Dabby**: AI financial automation. Turns raw LLM output into strict ledger data, with live Trial Balance, P&L and Balance Sheet.
-- **JobAI**: resume tailoring and job matching with three ATS modes and a Chrome extension.
-- **MitraVerify**: fact checker for text, images and documents in English and Hindi, with confidence-scored verdicts.
-
-</td>
-<td width="50%" valign="top">
-
-**Platforms**
-
-- **Stellar Forge**: Web3 crowdfunding and freelance escrow on Stellar smart contracts.
-- **Rescue Radar**: animal rescue coordination with GPS, geofencing and image recognition.
-- **Sign Bridge**: connecting sign language users with everyone else. In progress.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Right now
-
-| | |
-|:--|:--|
-| Building | Dabby at work, Sign Bridge on the side |
-| Studying | B.E. Computer Engineering, graduating May 2027 |
-| Stack | Python, FastAPI, Supabase, React, Next.js, Docker |
-| Open to | Open-source contributions and side projects |
-
-<br>
-
-## Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,js,go,react,nextjs,html,css,tailwind,fastapi,flask,supabase,mongodb,mysql,redis,aws,docker,kubernetes,jenkins,git,github&theme=dark" />
-
-<br><br>
+chirayu@mumbai:~$ echo $MOTTO
+Work with optimism, hope for the best
+```
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,go,react,nextjs,tailwind,fastapi,flask,supabase,mongodb,mysql,aws,docker,kubernetes,jenkins,git&theme=dark" />
+  <br><br>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChirayuMarathe&show_icons=true&hide_border=true&bg_color=0A0209&title_color=d5d5d5&icon_color=d5d5d5&text_color=bdbdbd&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirayuMarathe&layout=compact&hide_border=true&bg_color=0A0209&title_color=d5d5d5&text_color=bdbdbd&langs_count=6" />
 </div>
 
 <br>
 
-chirayusmarathe@gmail.com
+```text
+chirayu@mumbai:~$ contact
+email     chirayusmarathe@gmail.com
+linkedin  linkedin.com/in/chirayu-marathe69
+medium    medium.com/@chirayusmarathe
+```
